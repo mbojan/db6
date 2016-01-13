@@ -1,8 +1,11 @@
 Package: db6
 Type: Package
 Title: Interacting with Databases via R6-class Objects
-Version: 1.0.0
+Version: 1.0-0
 Authors@R: person("Michal", "Bojanowski", email="michal2992@gmail.com", role=c("aut", "cre"))
-Description: Interacting with Databases via R6-class Objects
+Description: Interacting with Databases via R6-class Objects.
+Imports: R6, DBI
+Suggests: RSQLite
 License: GPL-2
 LazyData: TRUE
+RoxygenNote: 5.0.1
