@@ -1,0 +1,8 @@
+Package: db6
+Type: Package
+Title: Interacting with Databases via R6-class Objects
+Version: 1.0.0
+Authors@R: person("Michal", "Bojanowski", email="michal2992@gmail.com", role=c("aut", "cre"))
+Description: Interacting with Databases via R6-class Objects
+License: GPL-2
+LazyData: TRUE
